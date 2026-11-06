@@ -195,7 +195,7 @@ table.data td.num{text-align:right;font-variant-numeric:tabular-nums}
 .heat-card{font-size:1.25rem;font-weight:500;text-align:center;padding:26px 18px;border-radius:14px;background:linear-gradient(135deg,#fff,#f1f7f4);border:2px solid var(--line);margin:10px 0 14px;min-height:120px;display:grid;place-items:center}
 .heat-btns{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .end-card{text-align:center;padding:20px}
-.end-card .big{font-size:3rem;font-family:Fredoka,sans-serif;color:var(--brand-d);line-height:1}
+.end-card div.big{font-size:3rem;font-family:Fredoka,sans-serif;color:var(--brand-d);line-height:1}
 
 /* ---------- QUIZ ---------- */
 .quiz-wrap{max-width:780px;margin:0 auto}
